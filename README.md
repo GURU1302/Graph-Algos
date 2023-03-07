@@ -3,5 +3,5 @@ This section comtain all the algorithm of Graph Topic in C++ language.
 
 INDEX:
 
-Breadth First Search,
-Depth First Search
+1. Breadth First Search
+2. Depth First Search
