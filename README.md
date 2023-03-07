@@ -1,5 +1,5 @@
 # Graph-Algos
-This section comtain all the algorithm of Graph Topic in C++ language.
+This section contain all the algorithm of Graph Topic in C++ language.
 
 INDEX:
 
